@@ -1,0 +1,79 @@
+*{
+    
+}
+.tituloprincipal{
+    font-size:  4.25rem;
+    color: gray
+}
+.padre{
+    justify-content: space-evenly;
+  background-color: #90ddf0;
+ 
+    
+}
+.tituloprim{
+    margin-left: 184px;
+    color: white;
+}
+.tituloemp{
+    margin-left: 100px;
+    color: white;
+}
+.estilo{
+        background-color:white      ;
+        
+        height: 500px;
+}
+.plomero{
+    width: 251px;
+}
+.backtarjetas{
+background-color: #90ddf0;
+height: 350px;
+}
+.usuarios{
+    width: 500px
+}
+.InicioDeSesion{
+    border-radius: 55px;
+    background-color: #00d4ff;
+    width: 207px;
+    height: 40px;
+    font-style: Palatino, URW;
+    display: flex;
+    justify-content: end;
+    cursor: pointer;
+    color: black;
+    border: solid white;
+    outline: none;
+    background-image: linear-gradient(#00d4ff, #d2e3d6 ) ;
+transition: none;
+font-size: 17px;
+}
+.InicioDeSesion:hover{
+    background-color: #00d4ff;
+    border: solid white;
+    width: 207px;
+    height: 40px;
+    font-style: Palatino, URW;
+    display: flex;
+    justify-content: end;
+    border-radius: 55px;
+    cursor: pointer;
+    outline: none;
+    color: black;
+    background-image: linear-gradient(#d2e3d6, #00d4ff) ;
+    font-size: 17px;
+}
+
+img{
+    height: 225px;
+    width: 350px;
+}
+.employe{
+    height: 320px;
+    width: 1050px;
+}
+.card-body{
+    background-color: #2c666e;
+}
